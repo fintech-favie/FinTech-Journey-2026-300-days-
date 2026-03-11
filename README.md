@@ -33,5 +33,3 @@ Financial Scaling: Created a Trading Profit Calculator that scales profit per sh
 Data Types: Noticed how multiplying by decimals (0.18) creates Float (decimal) values for better precision.
 # Day 4: Multiplication & Tax Calculator
 print("--- Digital Invoice Generator ---")
-
-Day 4: Implemented Multiplication logic for Invoice Generation and GST calculation."
