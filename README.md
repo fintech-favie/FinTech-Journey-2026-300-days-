@@ -23,3 +23,15 @@ Financial Logic: Built a Net Profit Tracker that subtracts brokerage fees and ta
 Logic Flow: Practiced "ledger style" math where multiple values are subtracted from a single starting balance.
 Achievement:
 Successfully built three separate financial calculators (Discount, Bank Balance, and Trading Profit) and pushed day3.py to GitHub.
+
+## Day 4: March 11, 2026
+Focus: Multiplication (*), Tax Calculations, and Scaling Data.
+Key Learnings:
+Multiplication Logic: Learned to use * to calculate totals (Price x Quantity).
+Tax Automation: Built a script to automatically apply 18% GST to subtotals.
+Financial Scaling: Created a Trading Profit Calculator that scales profit per share by total quantity.
+Data Types: Noticed how multiplying by decimals (0.18) creates Float (decimal) values for better precision.
+# Day 4: Multiplication & Tax Calculator
+print("--- Digital Invoice Generator ---")
+
+Day 4: Implemented Multiplication logic for Invoice Generation and GST calculation."
