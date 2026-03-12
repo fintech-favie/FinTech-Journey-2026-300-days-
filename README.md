@@ -33,3 +33,15 @@ Financial Scaling: Created a Trading Profit Calculator that scales profit per sh
 Data Types: Noticed how multiplying by decimals (0.18) creates Float (decimal) values for better precision.
 # Day 4: Multiplication & Tax Calculator
 print("--- Digital Invoice Generator ---")
+
+## Day 5: March 12, 2026
+Focus: Division (/), Unit Costing, and Profit Margins.
+Key Learnings:
+Division Logic: Used / to break down bulk costs into Unit Prices.
+Financial Ratios: Calculated Profit Margins by dividing Profit by Revenue.
+Percentage Conversion: Learned why we multiply by 100 to convert computer decimals (floats) into human-readable percentages (%).
+Career Math: Calculated monthly breakdowns for a 45 LPA goal (₹3.75L per month).
+Projects Completed:
+Unit Cost Calculator: Finds the price of a single item in a bulk order.
+Stock Average Tracker: Calculates the average buying price of shares.
+Margin Analysis Tool: A script that outputs profit percentages for business reporting.
