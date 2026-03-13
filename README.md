@@ -45,3 +45,9 @@ Projects Completed:
 Unit Cost Calculator: Finds the price of a single item in a bulk order.
 Stock Average Tracker: Calculates the average buying price of shares.
 Margin Analysis Tool: A script that outputs profit percentages for business reporting.
+
+## day 6: 13 march 2026
+: Day 6: Comparison Operators & Logic Flow
+Description: > * Implemented comparison operators (==, !=, >, <, >=, <=).
+Created logic scripts for Fintech use cases (Budgeting & Trading Entry).
+Successfully tracked Day 6 of the 300-day Python challenge.
