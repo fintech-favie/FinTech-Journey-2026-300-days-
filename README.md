@@ -51,3 +51,13 @@ Margin Analysis Tool: A script that outputs profit percentages for business repo
 Description: > * Implemented comparison operators (==, !=, >, <, >=, <=).
 Created logic scripts for Fintech use cases (Budgeting & Trading Entry).
 Successfully tracked Day 6 of the 300-day Python challenge.
+
+## Day 7: March 14, 2026
+Focus: Conditional Logic, If-Else Statements, and Code Block Indentation.
+Key Learnings:
+Conditional Statements: Learned how to make the program "decide" between two paths using if and else keywords.
+Fintech Logic: Created a functional trading signal script that checks if a stock_price is low enough to trigger a "Buy" signal.
+Indentation Syntax: Mastered the importance of the Tab/4-space rule in Python to define code blocks—a critical concept for clean coding.
+Debugging: Successfully resolved a SyntaxError by learning that if and else statements must always end with a colon (:).
+Achievement:
+Passed the Day 7 Logic Challenge and pushed a dynamic, decision-making day7.py script to GitHub. Successfully completed Week 1 of the 300-day Python challenge! 🚀
