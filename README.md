@@ -62,7 +62,8 @@ Debugging: Successfully resolved a SyntaxError by learning that if and else stat
 Achievement:
 Passed the Day 7 Logic Challenge and pushed a dynamic, decision-making day7.py script to GitHub. Successfully completed Week 1 of the 300-day Python challenge!
  🚀
-##Day 8 : 15 march 2026
+
+## Day 8:  15 march 2026
 Day 8: The Logic of Decision Making ⚖️
 Consistency is about showing up even when the week is heavy. Today’s focus: Comparison Operators. >
 In AI and Trading, everything comes down to logic: Is the price right? Is the data valid? Today, I taught my code how to answer those questions. One step closer to the 45 LPA vision. 🚀
