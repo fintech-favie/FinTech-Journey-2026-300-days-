@@ -68,3 +68,10 @@ Day 8: The Logic of Decision Making ⚖️
 Consistency is about showing up even when the week is heavy. Today’s focus: Comparison Operators. >
 In AI and Trading, everything comes down to logic: Is the price right? Is the data valid? Today, I taught my code how to answer those questions. One step closer to the 45 LPA vision. 🚀
 only quick revision of all the things I've learned 
+
+## Day 9:  March 16, 2026
+Topic: Python Logical Operators (and, or, not)
+Technical Updates:
+Successfully implemented multi-condition logic to simulate decision-making filters.
+Fixed syntax errors regarding Boolean capitalization (True/False) and block indentation.
+Decoupled Trading Strategy from Codebase for modular learning.
