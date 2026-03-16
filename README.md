@@ -75,3 +75,4 @@ Technical Updates:
 Successfully implemented multi-condition logic to simulate decision-making filters.
 Fixed syntax errors regarding Boolean capitalization (True/False) and block indentation.
 Decoupled Trading Strategy from Codebase for modular learning.
+Today was the start of 11th grade. I am choosing specialized skills (Python + ACCA) over traditional paths. My logic is working, my bugs are fixed, and my goal is 45 LPA by 21. Let them talk; I’ll let my terminal do the talking.”
