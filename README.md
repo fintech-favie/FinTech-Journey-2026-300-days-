@@ -90,3 +90,5 @@ Milestone: 10 Days of consistent coding/trading streak achieved. 🚀
 Key Learning: "Practiced list membership operators with a real-world shopping scenario. Focused on keeping the consistency streak alive during Navratri preparations."
 
 ## day 12 : 19 February 2026
+Commit Message: feat: implemented dynamic list expansion using .append() and input()
+Detailed Description : > "Transitioned from static data to interactive lists. Integrated the .append() method to dynamically update watchlists/skills based on real-time user input. Verified list growth using the len() function to track total progress."
