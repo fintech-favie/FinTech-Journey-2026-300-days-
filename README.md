@@ -88,3 +88,5 @@ Milestone: 10 Days of consistent coding/trading streak achieved. 🚀
 ## day11: 18 February 2026
 - Maintenance and Logic Review
 Key Learning: "Practiced list membership operators with a real-world shopping scenario. Focused on keeping the consistency streak alive during Navratri preparations."
+
+## day 12 : 19 February 2026
