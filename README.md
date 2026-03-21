@@ -92,3 +92,9 @@ Key Learning: "Practiced list membership operators with a real-world shopping sc
 ## day 12 : 19 February 2026
 Commit Message: feat: implemented dynamic list expansion using .append() and input()
 Detailed Description : > "Transitioned from static data to interactive lists. Integrated the .append() method to dynamically update watchlists/skills based on real-time user input. Verified list growth using the len() function to track total progress."
+
+## Day 13: 20 februray 2026 
+Dynamic Growth
+Focus: The .append() method.
+Achievement: Learned how to add new data (like a new stock target or a new skill) to the end of a list without having to re-write the whole thing.
+Next Goal: Learning how to measure and manage that growing data. 🚀📈
