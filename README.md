@@ -98,3 +98,7 @@ Dynamic Growth
 Focus: The .append() method.
 Achievement: Learned how to add new data (like a new stock target or a new skill) to the end of a list without having to re-write the whole thing.
 Next Goal: Learning how to measure and manage that growing data. 🚀📈
+
+## Day 14 : 21 february 2026
+Commit Message: feat: implemented targeted value removal using .remove()
+Key Learning: "Learned how to search and destroy specific data points within a list by their value name. Understood that .remove() requires an exact string match."
