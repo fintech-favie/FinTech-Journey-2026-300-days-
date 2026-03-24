@@ -113,3 +113,6 @@ feat: implemented dynamic conditional logic with explicit type conversion
 Today’s milestone focused on transitioning from static scripts to interactive, decision-making programs. I successfully implemented the if-else control flow to simulate a financial 'Trade Signal' bot.
 A critical technical breakthrough was mastering Type Casting using the int() function. I identified that Python’s input() method captures data as a String by default, which prevents mathematical comparisons. By wrapping the input in int(), I enabled the program to perform logical evaluations (e.g., current_price <= target_price).
 Additionally, I solidified my understanding of Pythonic syntax, specifically the requirement of colons (:) and the strict 4-space indentation rule for block-level code. This mastery of 'Boolean Logic' and 'Data Types' is a foundational step toward building the automated FinTech tools I aim to develop in my 300-day journey. Code is now verified and running successfully in Pydroid 3."
+## Day 17 : 24 February 2026
+refactor: optimized decision-making logic using conditional branching
+Technical Notes: "Moved beyond binary if-else into a multi-condition elif ladder. This ensures mutually exclusive execution, reducing computational overhead and allowing for complex market state analysis."
