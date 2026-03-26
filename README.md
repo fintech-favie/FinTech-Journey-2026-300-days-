@@ -116,3 +116,7 @@ Additionally, I solidified my understanding of Pythonic syntax, specifically the
 ## Day 17 : 24 February 2026
 refactor: optimized decision-making logic using conditional branching
 Technical Notes: "Moved beyond binary if-else into a multi-condition elif ladder. This ensures mutually exclusive execution, reducing computational overhead and allowing for complex market state analysis."
+
+## day18: 25 February 2026
+implemented keyword-prefixed conditional logic
+Technical Lesson: "Confirmed that every conditional block must begin with the if keyword. Also mastered variable output formatting by separating strings from integers in the print() function."
