@@ -120,3 +120,7 @@ Technical Notes: "Moved beyond binary if-else into a multi-condition elif ladder
 ## day18: 25 February 2026
 implemented keyword-prefixed conditional logic
 Technical Lesson: "Confirmed that every conditional block must begin with the if keyword. Also mastered variable output formatting by separating strings from integers in the print() function."
+
+## day19: 26 February 2026
+refactored nested logic using logical 'and' operator
+Technical Notes: "Optimized conditional branching by consolidating dependent conditions. Reduced code complexity and improved readability for trade signaling logic."
