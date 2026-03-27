@@ -85,42 +85,45 @@ Refactored Day 9 conditional logic for better readability.
 Started Multi-Timeframe Analysis (MTF) for XAU/USD (4H for levels, 15M for entries).
 Milestone: 10 Days of consistent coding/trading streak achieved. 🚀
 
-## day11: 18 February 2026
+## day11: 18 march 2026
 - Maintenance and Logic Review
 Key Learning: "Practiced list membership operators with a real-world shopping scenario. Focused on keeping the consistency streak alive during Navratri preparations."
 
-## day 12 : 19 February 2026
+## day 12 : 19 march 2026
 Commit Message: feat: implemented dynamic list expansion using .append() and input()
 Detailed Description : > "Transitioned from static data to interactive lists. Integrated the .append() method to dynamically update watchlists/skills based on real-time user input. Verified list growth using the len() function to track total progress."
 
-## Day 13: 20 februray 2026 
+## Day 13: 20 march 2026 
 Dynamic Growth
 Focus: The .append() method.
 Achievement: Learned how to add new data (like a new stock target or a new skill) to the end of a list without having to re-write the whole thing.
 Next Goal: Learning how to measure and manage that growing data. 🚀📈
 
-## Day 14 : 21 february 2026
+## Day 14 : 21 march  2026
 Commit Message: feat: implemented targeted value removal using .remove()
 Key Learning: "Learned how to search and destroy specific data points within a list by their value name. Understood that .remove() requires an exact string match."
 
-## Day 15 : 22 February 2026
+## Day 15 : 22 march  2026
 Comprehensive List Management)
  feat: implemented advanced data organization and portfolio optimization logicToday marks the successful completion of Day 15 in my 300-day Python journey. This milestone focused on transitioning from static data collection to dynamic, organized data management. I successfully integrated the .sort() and .reverse() methods to create a 'Portfolio Optimizer' simulation.
 A key breakthrough today was debugging 'Dirty Data'—specifically identifying how leading whitespaces within strings (e.g., ' a' vs 'a') disrupt Python’s Timsort algorithm. By refining my data entry, I ensured consistent alphabetical (A-Z) and priority (Z-A) views. I also mastered the chronological execution flow, ensuring that sorting operations occur before output functions to maintain data integrity. These skills are foundational for my 45 LPA career goal in FinTech, where structured data is critical for financial analysis and algorithmic trading. This commit represents a mastery of list lifecycles, covering growth, cleanup, and professional-grade organization."
 
-## day 16:  23 February 2026 
+## day 16:  23 march 2026 
 feat: implemented dynamic conditional logic with explicit type conversion
 Today’s milestone focused on transitioning from static scripts to interactive, decision-making programs. I successfully implemented the if-else control flow to simulate a financial 'Trade Signal' bot.
 A critical technical breakthrough was mastering Type Casting using the int() function. I identified that Python’s input() method captures data as a String by default, which prevents mathematical comparisons. By wrapping the input in int(), I enabled the program to perform logical evaluations (e.g., current_price <= target_price).
 Additionally, I solidified my understanding of Pythonic syntax, specifically the requirement of colons (:) and the strict 4-space indentation rule for block-level code. This mastery of 'Boolean Logic' and 'Data Types' is a foundational step toward building the automated FinTech tools I aim to develop in my 300-day journey. Code is now verified and running successfully in Pydroid 3."
-## Day 17 : 24 February 2026
+## Day 17 : 24 march 2026
 refactor: optimized decision-making logic using conditional branching
 Technical Notes: "Moved beyond binary if-else into a multi-condition elif ladder. This ensures mutually exclusive execution, reducing computational overhead and allowing for complex market state analysis."
 
-## day18: 25 February 2026
+## day18: 25 march 2026
 implemented keyword-prefixed conditional logic
 Technical Lesson: "Confirmed that every conditional block must begin with the if keyword. Also mastered variable output formatting by separating strings from integers in the print() function."
 
-## day19: 26 February 2026
+## day19: 26 march 2026
 refactored nested logic using logical 'and' operator
 Technical Notes: "Optimized conditional branching by consolidating dependent conditions. Reduced code complexity and improved readability for trade signaling logic."
+## day 20 : 27 march 2026
+refactor: corrected loop scope to prevent premature report generation
+Technical Lesson: "Confirmed that indentation determines the 'Life Cycle' of a statement. Moving code outside the indentation block ensures it only executes once the loop terminates 
