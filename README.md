@@ -127,3 +127,10 @@ Technical Notes: "Optimized conditional branching by consolidating dependent con
 ## day 20 : 27 march 2026
 refactor: corrected loop scope to prevent premature report generation
 Technical Lesson: "Confirmed that indentation determines the 'Life Cycle' of a statement. Moving code outside the indentation block ensures it only executes once the loop terminates 
+
+## day 21 : 28 march 2026
+implemented loop control flow and error-handling triggers
+Technical Achievements:
+Mastered the while loop structure for automation.
+Identified and resolved an infinite loop by fixing variable scope/indentation.
+Successfully implemented the break statement to stop processes at a specific threshold.
