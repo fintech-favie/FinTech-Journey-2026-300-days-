@@ -1,0 +1,9 @@
+doc_no = 0
+print("start scanning")
+while doc_no <5 :
+	doc_no = doc_no + 1
+	if doc_no == 3:
+		print("document 3 missing ! skipped to next")
+		continue 
+		print(f"document {doc_no} : processed successfully")
+		print("all available document scanned")
