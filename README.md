@@ -138,3 +138,7 @@ Successfully implemented the break statement to stop processes at a specific thr
 ## day 22: 29 march 2026
 Commit Message: feat: implemented iterative skip-logic via continue statements
 Technical Notes: "Refined loop control by utilizing continue to bypass specific iterations. This ensures continuous program execution even when non-critical anomalies are detected
+
+## day 23 : 30th March 2026
+initialized dynamic data storage using indexed lists
+Technical Notes: "Successfully implemented Python Lists. Demonstrated understanding of zero-based indexing to retrieve specific data points from a multi-element container."
