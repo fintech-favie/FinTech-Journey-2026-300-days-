@@ -160,3 +160,8 @@ Technical Notes: "Utilized .index() to retrieve the integer position of a specif
 Status: Function Internalized
 Commit Message: feat: utilized len() for dynamic data-size monitoring post-mutation
 Technical Notes: "Implemented the len() function to retrieve the total count of elements within a list structure. Crucial for boundary checking in loops and automated reporting."
+
+## day29: 4 April 2026
+Status: Advanced Indexing Initialized
+Commit Message: feat: documented range-based slicing for data sub-sets
+Technical Notes: "Mastered the n:m notation. Confirmed that the first index is inclusive while the second is exclusive—crucial for preventing 'Off-By-One' errors in financial reporting."
