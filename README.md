@@ -165,11 +165,20 @@ Technical Notes: "Implemented the len() function to retrieve the total count of 
 Status: Advanced Indexing Initialized
 Commit Message: feat: documented range-based slicing for data sub-sets
 Technical Notes: "Mastered the n:m notation. Confirmed that the first index is inclusive while the second is exclusive—crucial for preventing 'Off-By-One' errors in financial reporting."
+## day 29 : 5 April 2026
+feat: Day 29 - Introduction to Python Dictionaries
+
+Coding Lane:
+- Switched from index-based Lists to label-based Dictionaries for better data mapping.
+- Mastered basic Dictionary syntax: `my_dict = {"key": "value"}`.
+- Implemented the "Comma Rule" to ensure proper syntax in multi-line definitions.
+
+Technical Note: 
+Refined Pydroid 3 workflow to ensure all code starts at the "left wall" 
+to prevent IndentationErrors.
 
 
-## day 30 : 5 April 2026
-
-feat: Day 31 - Implementing Nested Dictionary Logic
+## day 30 : 6 April 2026
 
 Coding Progress:
 - Transitioned from flat dictionaries to Nested Data Structures.
@@ -180,3 +189,16 @@ Coding Progress:
 Technical Note:
 Focused on maintaining "Data Integrity" by eliminating accidental whitespace in 
 dictionary keys and enforcing consistent case-sensitivity.
+
+##day 31 : 7 April 2026
+feat: Day 31 - Implementing Nested Dictionary
+coding Lane:
+- Advanced from flat dictionaries to Nested Structures (Dictionaries within Dictionaries).
+- Developed a "Department/Employee" hierarchy to simulate real-world database logic.
+- Mastered the double-bracket access method: `company["dept"]["lead"]`.
+- Performed "CRUD" operations (Create, Read, Update, Delete) on nested levels.
+
+Technical Note: 
+Fixed common syntax pitfalls including bracket balancing `{}` and 
+accidental whitespace in string keys that cause KeyErrors.
+
