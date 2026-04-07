@@ -165,6 +165,12 @@ Technical Notes: "Implemented the len() function to retrieve the total count of 
 Status: Advanced Indexing Initialized
 Commit Message: feat: documented range-based slicing for data sub-sets
 Technical Notes: "Mastered the n:m notation. Confirmed that the first index is inclusive while the second is exclusive—crucial for preventing 'Off-By-One' errors in financial reporting."
+
+
 ## day 30 : 5 April 2026
-Topic: Associative Data Structures (Dictionaries)
-Status: CompletedKey Achievement: Moved from index-based lists [] to label-based dictionaries {}.
+feat: Day 30 - Advanced Dictionary Manipulation & XAU/USD Analysis
+
+Coding Lane:
+- Implemented dynamic dictionary updates (Update, Add, Delete)
+- Practiced strict syntax for key-value pairs to avoid NameErrors and KeyErrors
+- Refined case-sensitivity and whitespace management in Python strings
