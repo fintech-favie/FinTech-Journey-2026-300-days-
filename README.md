@@ -168,9 +168,15 @@ Technical Notes: "Mastered the n:m notation. Confirmed that the first index is i
 
 
 ## day 30 : 5 April 2026
-feat: Day 30 - Advanced Dictionary Manipulation & XAU/USD Analysis
 
-Coding Lane:
-- Implemented dynamic dictionary updates (Update, Add, Delete)
-- Practiced strict syntax for key-value pairs to avoid NameErrors and KeyErrors
-- Refined case-sensitivity and whitespace management in Python strings
+feat: Day 31 - Implementing Nested Dictionary Logic
+
+Coding Progress:
+- Transitioned from flat dictionaries to Nested Data Structures.
+- Implemented a "Company/Department" hierarchy to practice multi-level data retrieval.
+- Mastered the double-bracket syntax `dict[outer][inner]` for targeted updates.
+- Refined debugging process for bracket balancing and comma placement in complex objects.
+
+Technical Note:
+Focused on maintaining "Data Integrity" by eliminating accidental whitespace in 
+dictionary keys and enforcing consistent case-sensitivity.
