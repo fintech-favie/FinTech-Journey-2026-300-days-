@@ -200,7 +200,15 @@ coding Lane:
 - Mastered the double-bracket access method: `company["dept"]["lead"]`.
 - Performed "CRUD" operations (Create, Read, Update, Delete) on nested levels.
 
-Technical Note: 
-Fixed common syntax pitfalls including bracket balancing `{}` and 
-accidental whitespace in string keys that cause KeyErrors.
 
+## day 32 :8 april 2026
+feat: Day 32 - Automated Data Retrieval with .items()
+
+Coding Progress:
+- Implemented the .items() method to iterate through nested dictionaries.
+- Developed a loop to extract 'Key' and 'Value' pairs simultaneously.
+- Cleaned up output formatting using string methods like .title().
+- Verified that the loop scales automatically when new departments are added.
+
+Technical Note: Using loops for data extraction is a fundamental skill for 
+working with JSON and API responses in backend development.
