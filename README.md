@@ -232,6 +232,7 @@ feat: Day 34 - Implementing Conditional Logic in Nested Loops
 - Converted dictionary values from strings to integers to allow for mathematical comparison (>=).
 - Created a targeted reporting system that only displays high-value departments (50LPA+).
 - Strengthened understanding of how logical operators work with nested data structures.
+
 ## day 35 : 11 April 2026
 feat: Day 35 - Implementing Error Handling with .get()
 
@@ -239,5 +240,14 @@ feat: Day 35 - Implementing Error Handling with .get()
 - Prevented Potential KeyError crashes by providing default fallback values ("Pending Evaluation").
 - Demonstrated the ability to handle inconsistent data structures across nested dictionaries.
 - Improved script resilience for real-world data processing scenarios.
+
+## day 36 : 12 April 2026
+feat: Day 36 - Dynamic Dictionary Modification
+
+- Implemented logic to update existing nested values within a loop.
+- Added new key-value pairs ('status': 'Verified') to all dictionary entries dynamically.
+- Applied mathematical increments to 'target' values across nested structures.
+- Verified that modifications persist in memory for subsequent data retrieval.
+
 
 
