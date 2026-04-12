@@ -225,3 +225,12 @@ Coding Progress:
 
 Goal: Solidified foundation in nested loops to ensure zero-error logic before advancing to data manipulation.
 
+## day 34 : 10 April 2026
+feat: Day 34 - Implementing Conditional Logic in Nested Loops
+
+- Integrated 'if' statements within dictionary iteration to filter data.
+- Converted dictionary values from strings to integers to allow for mathematical comparison (>=).
+- Created a targeted reporting system that only displays high-value departments (50LPA+).
+- Strengthened understanding of how logical operators work with nested data structures.
+
+
