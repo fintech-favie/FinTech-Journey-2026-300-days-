@@ -1,6 +1,11 @@
-feat: Day 36 - Dynamic Dictionary Modification
-
-- Implemented logic to update existing nested values within a loop.
-- Added new key-value pairs ('status': 'Verified') to all dictionary entries dynamically.
-- Applied mathematical increments to 'target' values across nested structures.
-- Verified that modifications persist in memory for subsequent data retrieval.
+Company = { "finance" : { "lead" : "anshika","target" : 50 , "status" : "acitve" 
+} , 
+"tech": {"lead" : "alex" , "target" : 30 , "status" : "hiring" 
+},
+}
+for dept , details in Company.items( ) :
+	details["status"] = "verified"
+	details["target"] = details["target"] + 5
+	for dept , details in Company.items( ) :
+		print(f"{dept.upper()}: Target is now {details['target']}LPA ({details['status']})")
+	
