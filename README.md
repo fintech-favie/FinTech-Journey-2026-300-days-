@@ -212,3 +212,16 @@ Coding Progress:
 
 Technical Note: Using loops for data extraction is a fundamental skill for 
 working with JSON and API responses in backend development.
+
+##day 33 : 9 April 2026
+docs: Day 33 - Mastery of Nested Dictionary Iteration & Debugging
+
+Coding Progress:
+- Reinforced the implementation of the .items() method for data retrieval.
+- Successfully debugged syntax errors related to dictionary keys and indentation.
+- Mastered case-sensitivity between variable definitions and loop calls.
+- Practiced clean string formatting using .upper() and .title() methods.
+- Verified the stability of multi-level key access (e.g., details['target']).
+
+Goal: Solidified foundation in nested loops to ensure zero-error logic before advancing to data manipulation.
+
