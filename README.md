@@ -213,7 +213,7 @@ Coding Progress:
 Technical Note: Using loops for data extraction is a fundamental skill for 
 working with JSON and API responses in backend development.
 
-##day 33 : 9 April 2026
+## day 33: 9 April 2026
 docs: Day 33 - Mastery of Nested Dictionary Iteration & Debugging
 
 Coding Progress:
