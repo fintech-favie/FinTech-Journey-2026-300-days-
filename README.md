@@ -257,6 +257,15 @@ feat: Day 37 - Successful Data Deletion & Cleanup
 - Corrected syntax errors regarding string keys and bracket usage.
 - Completed the 5-day Python sprint, reaching full curriculum synchronization.
 
+## day 38 : 14 april 2026
+feat: Day 38 - Implementing Accumulator Logic in Nested Loops
+
+- Created a summation script to aggregate numerical data across multiple dictionary entries.
+- Developed a persistent variable ('total_target') to track running totals during iteration.
+- Reinforced the concept of extracting integers from nested structures for mathematical operations.
+- Prepared the foundation for calculating averages and financial reporting metrics.
+
+
 
 
 
