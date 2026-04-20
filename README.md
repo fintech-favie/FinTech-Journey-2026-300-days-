@@ -281,6 +281,14 @@ feat: Day 40 - Multi-Tier Classification Logic
 - Optimized logical flow by prioritizing high-value conditions (Gold > Silver > Bronze).
 - Reinforced the use of 'pprint' for structured data output.
 
+## day 41: 17 April 2026
+feat: Day 41 - Advanced Logical Operators (AND/OR) in Data Tiering
+
+- Integrated 'and' / 'or' operators within dictionary mutation loops.
+- Implemented multi-condition checks for boolean ('active') and integer ('posts') values.
+- Refined conditional branching to prioritize 'VIP' status based on dual-metric validation.
+- Standardized output using pprint for complex dictionary visualization.
+
 
 
 
