@@ -295,6 +295,15 @@ feat: Day 41 - Advanced Logical Operators (AND/OR) in Data Tiering
 - Validated overlapping 'and'/'or' edge cases across a larger dataset.
 - Strengthened nested dictionary mutation patterns for production-level accuracy.
 
+## day 43 : 19 April 2026
+test: Day 43 - Intensive Practice of Complex Logic Branching
+
+- Performed stress testing on 'and'/'or' logical combinations for nested attributes.
+- Validated tier-assignment accuracy for inactive high-post users vs active low-post users.
+- Re-enforced efficient Boolean evaluation patterns within .items() loops.
+- Standardized data structure mutation for consistent dictionary reporting.
+
+
 
 
 
