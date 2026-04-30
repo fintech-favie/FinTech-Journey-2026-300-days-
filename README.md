@@ -351,6 +351,14 @@ feat: Day 49 - Persistent Runtime with Control Flow Breaks
 ## day 50 : 26 April 2026
  "Day 50: Created addition module for financial values"
 
+## day 51: 27 April 2026
+feat: Day 52 - Arithmetic Module: Scaling & Multi-unit Calculation
+
+- Developed the multiplication engine for scaling financial data.
+- Implemented dual-float input handling for precise unit pricing.
+- Focused on the core logic used for 'Total Investment Value' calculations.
+
+
 
 
 
