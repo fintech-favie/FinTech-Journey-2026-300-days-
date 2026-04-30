@@ -350,8 +350,11 @@ feat: Day 49 - Persistent Runtime with Control Flow Breaks
 
 ## day 50 : 26 April 2026
  "Day 50: Created addition module for financial values"
-
+ 
 ## day 51: 27 April 2026
+Day 51: Implemented conditional logic using subtraction to determine financial outcomes."
+
+## day 52: 28 April 2026
 feat: Day 52 - Arithmetic Module: Scaling & Multi-unit Calculation
 
 - Developed the multiplication engine for scaling financial data.
