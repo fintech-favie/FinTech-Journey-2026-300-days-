@@ -1,1 +1,10 @@
-"Day 54: Mastered the zero-division safety check with a shorter, cleaner code structure."
+
+print("--- DIVIDE & CHECK ---")
+
+a = float(input("Enter number: "))
+b = float(input("Divide by: "))
+
+if b != 0:
+    print("Result:", a / b)
+else:
+    print("Error: Can't divide by zero")
