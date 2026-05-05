@@ -401,6 +401,13 @@ feat: Day 58 - Implementing Profit Margin Logic
 - Applied the Day 54-57 'Safety Gate' to a real-world Margin calculation.
 - Transitioned from simple arithmetic to multi-step financial formulas.
 
+## day 59 : 5 may 2026
+feat: Day 59 - Discount Logic and Multi-Step Arithmetic
+
+- Integrated multiplication and division to calculate percentage values.
+- Applied subtraction to derive net pricing after discounts.
+- Continued refinement of clean console output for financial tools.
+
 
 
 
