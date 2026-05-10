@@ -408,6 +408,41 @@ feat: Day 59 - Discount Logic and Multi-Step Arithmetic
 - Applied subtraction to derive net pricing after discounts.
 - Continued refinement of clean console output for financial tools.
 
+## day 60: 6 may 2026
+feat: Day 60 - Implementing Exponentiation Logic
+
+- Introduced the `**` operator for power calculations.
+- Developed foundation for future compound interest formulas.
+- Validated float-based squaring functionality.
+## day 61: 7 may 2026
+feat: Day 61 - Floor Division for Unit Calculations
+
+- Implemented the `//` operator to derive whole-number results.
+- Applied logic to simulate 'Maximum Affordable Units' in a budget scenario.
+- Eliminated decimal remainders for integer-only output requirements.
+
+## day 62 : 8 may 2026
+feat: Day 62 - Remainder Logic via Modulus Operator
+
+- Integrated the `%` operator to track leftover values in financial transactions.
+- Focused on calculating remaining cash balances after bulk purchases.
+- Enhanced understanding of mathematical remainders in Python.
+
+## day 63: 9 may 2026
+fix: Day 63 - Refactored Discount Engine and Variable Mapping
+
+- Re-implemented multi-step discount logic with corrected arithmetic operators.
+- Ensured strict alignment between input variables and mathematical execution.
+- Optimized code for calculating both 'Savings' and 'Final Price' simultaneously.
+
+
+## day 64 : 10 may 2026
+feat: Day 64 - Triple-Variable Input and Summation
+
+- Developed a streamlined process for handling multiple concurrent float inputs.
+- Practiced 'Grand Total' logic for multi-item financial tracking.
+- Reinforced the Input-Process-Output flow for complex data sets.
+
 
 
 
